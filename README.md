@@ -1,2 +1,0 @@
-# TestAutomation_University
-Labs
